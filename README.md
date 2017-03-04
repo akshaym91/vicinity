@@ -15,7 +15,7 @@ HTML5 Boilerplate is a professional front-end template for building fast, robust
 ###Sass
 Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
-###Bootstrap
+###Spectre.css
 Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
 
 ###Knockout.js
@@ -38,8 +38,3 @@ MIT
 
 ##Copyright
 Copyright &copy; 2016 Akshay Menon
-
-###Info
-Vicinity Google maps API key: AIzaSyCMutlL13SZF_wb3HOiGdaqCKmQZAkOSpY
-Vicinity_Browser: AIzaSyDfy3T8UQzGJI0Eb5S6NsQsz-fE_rDNP9Q
-
