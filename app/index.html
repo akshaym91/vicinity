@@ -1,0 +1,109 @@
+<!doctype html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>Vicinity</title>
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css styles/main.css -->
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+    <!-- build:css styles/spectre.css -->
+    <link rel="stylesheet" href="../bower_components/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="../bower_components/spectre.css/dist/spectre-exp.min.css">
+    <!-- endbuild -->
+    <!-- build:css styles/font-awesome.css -->
+    <link rel="stylesheet" href="../bower_components/components-font-awesome/css/font-awesome.min.css">
+    <!-- endbuild -->
+    <!-- build:js scripts/vendor/modernizr.js -->
+    <script src="../bower_components/modernizr/modernizr.js"></script>
+    <!-- endbuild -->
+    <!-- build:js scripts/main.js -->
+    <script src="scripts/main.js"></script>
+    <!-- endbuild -->
+</head>
+
+<body>
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div class="container">
+        <header class="navbar">
+            <section class="navbar-section">
+                <a href="#" class="navbar-brand">
+                    <i class="fa fa-globe"></i> Vicinity
+                </a>
+            </section>
+            <section class="navbar-section">
+                <div class="btn-group">
+                    <button class="btn tooltip tooltip-bottom" id="map-marker-toggle" data-tooltip="Show appartment markers"><i class="fa fa-map-marker"></i></button>
+                    <button class="btn tooltip tooltip-bottom" id="map-drawer-toggle" data-tooltip="Draw boundary for search"><i class="fa fa-pencil-square-o"></i></button>
+                    <button class="btn tooltip tooltip-bottom" id="map-area-calculate" data-tooltip="Measure the area"><i class="fa fa-arrows-h"></i></button>
+                </div>
+            </section>
+        </header>
+        <header class="navbar">
+            <section class="navbar-section">
+                <form class="form-horizontal">
+                    <div class="form-group">
+                        <div class="col-3">
+                            <label class="form-label" for="max-duration">Within</label>
+                        </div>
+                        <div class="col-5">
+                            <select class="form-select" id="max-duration">
+                                <option value="10">10 min</option>
+                                <option value="15">15 min</option>
+                                <option value="30">30 min</option>
+                                <option value="60">1 hour</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
+                <select class="form-select" id="mode">
+                    <option value="DRIVING">drive</option>
+                    <option value="WALKING">walk</option>
+                    <option value="BICYCLING">bike</option>
+                    <option value="TRANSIT">transit ride</option>
+                </select>
+                <label class="form-label" for="search-within-time-text">&nbsp; of &nbsp;</label>
+                <div class="input-group input-inline">
+                    <input class="form-input" id="search-within-time-text" type="text" placeholder="75 9th Ave, New York, NY">
+                    <button class="btn input-group-btn" id="search-within-time" data-tooltip="Search within time"><i class="fa fa-clock-o"></i></button>
+                </div>
+            </section>
+            <section class="navbar-section">
+                <div class="input-group input-inline">
+                    <input class="form-input" id="places-search" type="text" placeholder="Pizza delivery in NYC">
+                    <button class="btn input-group-btn" id="go-places" type="button" data-tooltip="Search nearby"><i class="fa fa-street-view"></i></button>
+                </div>
+            </section>
+            <section class="navbar-section">
+                <div class="input-group input-inline">
+                    <input class="form-input" id="zoom-to-area-text" type="text" placeholder="Place" />
+                    <button class="btn btn-primary input-group-btn" id="zoom-to-area" data-tooltip="Search by name of"><i class="fa fa-search"></i></button>
+                </div>
+            </section>
+        </header>
+        <div id="message-box"></div>
+        <div id="map"></div>
+        <footer class="footer text-center">
+            &copy; 2016, <i><a class="btn btn-link" href="https://akshaym91.github.io">Akshay Menon</a></i>All Rights Reserved. Licensed under <a class="btn btn-link" href="https://opensource.org/licenses/MIT">MIT</a>
+        </footer>
+    </div>
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/knockout/dist/knockout.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?libraries=places,geometry,drawing&key=AIzaSyDfy3T8UQzGJI0Eb5S6NsQsz-fE_rDNP9Q&v=3&callback=initMap">
+    </script>
+</body>
+
+</html>

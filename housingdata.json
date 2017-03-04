@@ -1,0 +1,2031 @@
+{
+    "total": 282,
+    "np_total_count": 13,
+    "resale_total_count": 269,
+    "hits": [{
+        "has_slice_view": false,
+        "formatted_price": "1.08 Cr",
+        "has_offer": true,
+        "developer_information": [{
+            "name": "Dreamciti Realty Pvt Ltd"
+        }],
+        "date_added_in_seconds": 1481536548.70501,
+        "noc_approvals_present": false,
+        "type": "project",
+        "title": "3 BHK Villa",
+        "location_coordinates": "12.796361,77.619667",
+        "sellers_info": [{
+            "is_homebuy360_builder": false,
+            "profile_uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+            "profile_url": "1222666_dreamciti_realty_pvt_ltd",
+            "min_fromatted_price": "1.08 Cr",
+            "bhk_title": "3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/dfba26bb46eb8a1ac2acc1d30d707bf8/v4/version.jpg",
+            "contact_person_id": 3,
+            "max_fromatted_price": "1.69 Cr",
+            "offer_text": [],
+            "max_price": 16872000,
+            "is_seller": false,
+            "min_price": 10800930,
+            "apartment_type_ids": [4],
+            "name": "Dreamciti Realty Pvt Ltd"
+        }],
+        "offer_text": "Avail Huge Discounts Valid till March 2017",
+        "coupon_details": [],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "price": 10800930,
+        "formatted_per_sqft_rate": "4.49k",
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": null,
+                "uuid": null
+            },
+            "locality": {
+                "name": null,
+                "uuid": null
+            },
+            "sublocality": {
+                "name": null,
+                "uuid": null
+            },
+            "housing_region": {
+                "name": "Bannerghatta Road-Jigani",
+                "uuid": "94c9aa87311b3d75a6b3"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 41477,
+        "event_priority": null,
+        "inventory_canonical_url": "/in/buy/projects/page/41477-dreamciti-greens-a-signature-villows-by-dreamciti-realty-pvt-ltd-in-koppa-gate",
+        "is_premium_project": false,
+        "thumb_image_url": "https://is1-2.housingcdn.com/4f2250e8/76afb92c0fd8f74648b687dda8100ccb/v3/version.jpg",
+        "offers_data": ["Avail Huge Discounts Valid till March 2017"],
+        "initiation_date": 1483209000,
+        "project_event_status": "UNAVAILABLE",
+        "show_construction_updates": false,
+        "date_added": "2016-12-12T15:25:48Z",
+        "inventory_configs": [{
+            "formatted_price": "1.08 Cr",
+            "area": 2707,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 2,
+            "flat_config_id": 148010,
+            "coupon_details": [],
+            "per_sqft_rate": 3990,
+            "price": 10800930,
+            "price_on_request": false,
+            "completion_date": 1512325800,
+            "id": 41477,
+            "number_of_toilets": null,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.09 Cr",
+            "area": 2732,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 2,
+            "flat_config_id": 148011,
+            "coupon_details": [],
+            "per_sqft_rate": 3990,
+            "price": 10900680,
+            "price_on_request": false,
+            "completion_date": 1512325800,
+            "id": 41477,
+            "number_of_toilets": null,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.1 Cr",
+            "area": 2754,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 2,
+            "flat_config_id": 148009,
+            "coupon_details": [],
+            "per_sqft_rate": 3990,
+            "price": 10988460,
+            "price_on_request": false,
+            "completion_date": 1512325800,
+            "id": 41477,
+            "number_of_toilets": null,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.69 Cr",
+            "area": 2812,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 2,
+            "flat_config_id": 148008,
+            "coupon_details": [],
+            "per_sqft_rate": 6000,
+            "price": 16872000,
+            "price_on_request": false,
+            "completion_date": 1512325800,
+            "id": 41477,
+            "number_of_toilets": null,
+            "pass_by_filter": true
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["f7f5d7f50dde9452144e", "94c9aa87311b3d75a6b3", "d94a0854185332e78d1b", "88f5b6a53602c1a6f91c", "d078570df0e00884d815", "747be13fe47cb8ae14c3", "9a08c69f4ebbfc3edca6", "23fe7045e2613fb340be"],
+        "contact_persons_info": [{
+            "is_homebuy360_builder": false,
+            "not_in_contact_card": false,
+            "profile_uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+            "profile_url": "1222666_dreamciti_realty_pvt_ltd",
+            "min_fromatted_price": "1.08 Cr",
+            "bhk_title": "3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/dfba26bb46eb8a1ac2acc1d30d707bf8/v4/version.jpg",
+            "contact_person_id": 3,
+            "uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+            "max_fromatted_price": "1.69 Cr",
+            "offer_text": [],
+            "max_price": 16872000,
+            "is_seller": false,
+            "min_price": 10800930,
+            "apartment_type_ids": [4],
+            "name": "Dreamciti Realty Pvt Ltd"
+        }],
+        "event_tag_id": null,
+        "name": "Dreamciti Greens - A Signature Villows",
+        "is_pano_available": false,
+        "status": "ACTIVE",
+        "sort_type": "random",
+        "slot_start_date": "2017-01-30T18:30:00Z",
+        "slot_id": 10353,
+        "slot_end_date": "2017-03-04T18:29:59Z",
+        "promoted_project_type": "ad_project",
+        "is_featured": true,
+        "display_polygon_uuid": "65312d257cf1042ce22b",
+        "display_polygon_name": "Bannerghatta Road",
+        "min_price_per_bedrooms": [{
+            "aprt_type_id": 4,
+            "apartment_type_name": "3 BHK",
+            "minimum_price": 10800930,
+            "minimum_formatted_price": "1.08 Cr",
+            "maximum_price": 16872000,
+            "maximum_formatted_price": "1.69 Cr",
+            "minimum_area": 2707,
+            "maximum_area": 2812,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1512325800
+        }],
+        "display_neighbourhood": ["Bannerghatta Road, Bengaluru"],
+        "featured_type": "locality",
+        "min_price": 10800930,
+        "formatted_min_price": "1.08 Cr",
+        "max_price": 16872000,
+        "formatted_max_price": "1.69 Cr",
+        "completion_date": 1512325800,
+        "_id": "41477_project"
+    }, {
+        "has_slice_view": false,
+        "formatted_price": "1.3 Cr",
+        "has_offer": false,
+        "developer_information": [{
+            "name": "Mahindra Lifespaces"
+        }],
+        "date_added_in_seconds": 1465355423.0,
+        "noc_approvals_present": false,
+        "type": "project",
+        "title": "3, 3.5, 4 BHK Apartments",
+        "location_coordinates": "12.886408,77.59701",
+        "sellers_info": [{
+            "is_homebuy360_builder": false,
+            "profile_uuid": "929ba580-e103-4d1f-8243-740a319d0ab0",
+            "profile_url": "135186_mahindra_lifespaces",
+            "min_fromatted_price": "1.3 Cr",
+            "bhk_title": "3,3.5,4 BHK",
+            "profile_picture_url": "https://is1-2.housingcdn.com/0b8ad14c/83b264a4667f291d3afe7be563c55a40/v1/version.jpg",
+            "contact_person_id": 3,
+            "max_fromatted_price": "2.2 Cr",
+            "offer_text": [],
+            "max_price": 21987600,
+            "is_seller": false,
+            "min_price": 12964800,
+            "apartment_type_ids": [4, 44, 5],
+            "name": "Mahindra Lifespaces"
+        }],
+        "offer_text": null,
+        "coupon_details": [],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "price": 12964800,
+        "formatted_per_sqft_rate": "7.3k",
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": null,
+                "uuid": null
+            },
+            "locality": {
+                "name": "Arakere",
+                "uuid": "2e8021a87d9da9afd97c"
+            },
+            "sublocality": {
+                "name": "Venugopal Reddy Layout",
+                "uuid": "e323c42814dac113c124"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 33510,
+        "event_priority": null,
+        "inventory_canonical_url": "/in/buy/projects/page/33510-windchimes-by-mahindra-lifespaces-by-mahindra-lifespaces-in-arekere",
+        "is_premium_project": true,
+        "thumb_image_url": "https://is1-2.housingcdn.com/4f2250e8/9c4ae4a701c28321a2611db2e5a7d5f4/v2/version.jpg",
+        "offers_data": [],
+        "initiation_date": 1433097000,
+        "project_event_status": "UNAVAILABLE",
+        "show_construction_updates": false,
+        "date_added": "2016-06-08T08:40:23Z",
+        "inventory_configs": [{
+            "formatted_price": "1.3 Cr",
+            "area": 1776,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 127901,
+            "coupon_details": [],
+            "per_sqft_rate": 7300,
+            "price": 12964800,
+            "price_on_request": false,
+            "completion_date": 1535999400,
+            "id": 33510,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.31 Cr",
+            "area": 1792,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 127917,
+            "coupon_details": [],
+            "per_sqft_rate": 7300,
+            "price": 13081600,
+            "price_on_request": false,
+            "completion_date": 1535999400,
+            "id": 33510,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.73 Cr",
+            "area": 2368,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 44,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 127918,
+            "coupon_details": [],
+            "per_sqft_rate": 7300,
+            "price": 17286400,
+            "price_on_request": false,
+            "completion_date": 1535999400,
+            "id": 33510,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.73 Cr",
+            "area": 2370,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 44,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 127919,
+            "coupon_details": [],
+            "per_sqft_rate": 7300,
+            "price": 17301000,
+            "price_on_request": false,
+            "completion_date": 1535999400,
+            "id": 33510,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "2.2 Cr",
+            "area": 3012,
+            "seller": [3],
+            "number_of_bedrooms": 4,
+            "facing": "all",
+            "apartment_type_id": 5,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 127925,
+            "coupon_details": [],
+            "per_sqft_rate": 7300,
+            "price": 21987600,
+            "price_on_request": false,
+            "completion_date": 1535999400,
+            "id": 33510,
+            "number_of_toilets": 4,
+            "pass_by_filter": true
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["2e8021a87d9da9afd97c", "e323c42814dac113c124", "d94a0854185332e78d1b", "88f5b6a53602c1a6f91c", "df1b0d8128f30883c4e5", "6c4b1f501c88799cabe5", "f7f5d7f50dde9452144e", "d078570df0e00884d815", "747be13fe47cb8ae14c3", "65312d257cf1042ce22b"],
+        "contact_persons_info": [{
+            "is_homebuy360_builder": false,
+            "not_in_contact_card": false,
+            "profile_uuid": "929ba580-e103-4d1f-8243-740a319d0ab0",
+            "profile_url": "135186_mahindra_lifespaces",
+            "min_fromatted_price": "1.3 Cr",
+            "bhk_title": "3,3.5,4 BHK",
+            "profile_picture_url": "https://is1-2.housingcdn.com/0b8ad14c/83b264a4667f291d3afe7be563c55a40/v1/version.jpg",
+            "contact_person_id": 3,
+            "uuid": "929ba580-e103-4d1f-8243-740a319d0ab0",
+            "max_fromatted_price": "2.2 Cr",
+            "offer_text": [],
+            "max_price": 21987600,
+            "is_seller": false,
+            "min_price": 12964800,
+            "apartment_type_ids": [4, 44, 5],
+            "name": "Mahindra Lifespaces"
+        }],
+        "event_tag_id": null,
+        "name": "Windchimes by Mahindra Lifespaces",
+        "is_pano_available": false,
+        "status": "ACTIVE",
+        "sort_type": "random",
+        "slot_start_date": "2016-08-27T18:30:00Z",
+        "slot_id": 5635,
+        "slot_end_date": "2017-03-04T18:29:59Z",
+        "promoted_project_type": "ad_project",
+        "is_featured": true,
+        "display_polygon_uuid": "65312d257cf1042ce22b",
+        "display_polygon_name": "Bannerghatta Road",
+        "min_price_per_bedrooms": [{
+            "aprt_type_id": 4,
+            "apartment_type_name": "3 BHK",
+            "minimum_price": 12964800,
+            "minimum_formatted_price": "1.3 Cr",
+            "maximum_price": 13081600,
+            "maximum_formatted_price": "1.31 Cr",
+            "minimum_area": 1776,
+            "maximum_area": 1792,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1535999400
+        }, {
+            "aprt_type_id": 44,
+            "apartment_type_name": "3.5 BHK",
+            "minimum_price": 17286400,
+            "minimum_formatted_price": "1.73 Cr",
+            "maximum_price": 17301000,
+            "maximum_formatted_price": "1.73 Cr",
+            "minimum_area": 2368,
+            "maximum_area": 2370,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1535999400
+        }, {
+            "aprt_type_id": 5,
+            "apartment_type_name": "4 BHK",
+            "minimum_price": 21987600,
+            "minimum_formatted_price": "2.2 Cr",
+            "maximum_price": 21987600,
+            "maximum_formatted_price": "2.2 Cr",
+            "minimum_area": 3012,
+            "maximum_area": 3012,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1535999400
+        }],
+        "display_neighbourhood": ["Bannerghatta Road"],
+        "featured_type": "locality",
+        "min_price": 12964800,
+        "formatted_min_price": "1.3 Cr",
+        "max_price": 21987600,
+        "formatted_max_price": "2.2 Cr",
+        "completion_date": 1535999400,
+        "_id": "33510_project"
+    }, {
+        "formatted_price": "55.0 Lacs",
+        "date_added_in_seconds": 1486226434.52656,
+        "show_loan_option": true,
+        "developer_name": "",
+        "type": "resale",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.922474,77.608649",
+        "is_uc_property": false,
+        "sellers_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "updated_at": 1486226435,
+        "price": 5500000,
+        "formatted_per_sqft_rate": "5 k",
+        "is_ad_property": false,
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": "Narayanappa Garden",
+                "uuid": "7376a797ce6a15d31120"
+            },
+            "locality": {
+                "name": "BTM Layout",
+                "uuid": "83575552487e9a55f54d"
+            },
+            "sublocality": {
+                "name": "Stage 1",
+                "uuid": "9e3e206309791142d477"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 1360883,
+        "inventory_canonical_url": "/in/buy/resale/page/1360883-2-bhk-apartment-in-btm-layout-for-rs-5500000",
+        "building_name": "Na",
+        "thumb_image_url": "https://is1-2.housingcdn.com/01c16c28/4b1110230c152ba3b0f0bc4a356574f7/v2/version.jpg",
+        "parking_count": 1,
+        "date_added": "2017-02-04T22:10:34Z",
+        "inventory_configs": [{
+            "formatted_price": "55.0 Lacs",
+            "area": 1100,
+            "seller": [1],
+            "number_of_bedrooms": 2,
+            "facing": "north",
+            "apartment_type_id": 3,
+            "parking_count": 1,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 1360883,
+            "per_sqft_rate": 5000,
+            "price": 5500000,
+            "price_on_request": false,
+            "completion_date": 1486226434,
+            "id": 1360883,
+            "number_of_toilets": 2
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["d94a0854185332e78d1b", "9e3e206309791142d477", "88f5b6a53602c1a6f91c", "d078570df0e00884d815", "7376a797ce6a15d31120", "f7f5d7f50dde9452144e", "747be13fe47cb8ae14c3", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b", "83575552487e9a55f54d"],
+        "contact_persons_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "slot_id": null,
+        "building_uuid": "6a38153751",
+        "status": "ACTIVE",
+        "display_neighbourhood": ["South Bangalore", "BTM Layout"],
+        "featured_type": "housing_region",
+        "max_price": 5500000,
+        "min_price": 5500000,
+        "formatted_max_price": "55.0 Lacs",
+        "formatted_min_price": "55.0 Lacs",
+        "completion_date": 1486226434,
+        "_id": "1360883_resale"
+    }, {
+        "formatted_price": "55.0 Lacs",
+        "date_added_in_seconds": 1486716115.48501,
+        "show_loan_option": true,
+        "developer_name": "",
+        "type": "resale",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.922474,77.608649",
+        "is_uc_property": false,
+        "sellers_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "updated_at": 1486716115,
+        "price": 5500000,
+        "formatted_per_sqft_rate": "5 k",
+        "is_ad_property": false,
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": "Narayanappa Garden",
+                "uuid": "7376a797ce6a15d31120"
+            },
+            "locality": {
+                "name": "BTM Layout",
+                "uuid": "83575552487e9a55f54d"
+            },
+            "sublocality": {
+                "name": "Stage 1",
+                "uuid": "9e3e206309791142d477"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 1360888,
+        "inventory_canonical_url": "/in/buy/resale/page/1360888-2-bhk-apartment-in-btm-layout-for-rs-5500000",
+        "building_name": "Na",
+        "thumb_image_url": "https://is1-2.housingcdn.com/01c16c28/6add0d403ace46ffebe477aab7c1ac6b/v2/version.jpg",
+        "parking_count": 1,
+        "date_added": "2017-02-10T14:11:55Z",
+        "inventory_configs": [{
+            "formatted_price": "55.0 Lacs",
+            "area": 1100,
+            "seller": [1],
+            "number_of_bedrooms": 2,
+            "facing": "north",
+            "apartment_type_id": 3,
+            "parking_count": 1,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 1360888,
+            "per_sqft_rate": 5000,
+            "price": 5500000,
+            "price_on_request": false,
+            "completion_date": 1486716115,
+            "id": 1360888,
+            "number_of_toilets": 2
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["747be13fe47cb8ae14c3", "88f5b6a53602c1a6f91c", "9e3e206309791142d477", "7376a797ce6a15d31120", "d078570df0e00884d815", "83575552487e9a55f54d", "d94a0854185332e78d1b", "f7f5d7f50dde9452144e", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b"],
+        "contact_persons_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "slot_id": null,
+        "building_uuid": "6a38153751",
+        "status": "ACTIVE",
+        "display_neighbourhood": ["South Bangalore", "BTM Layout"],
+        "featured_type": "housing_region",
+        "max_price": 5500000,
+        "min_price": 5500000,
+        "formatted_max_price": "55.0 Lacs",
+        "formatted_min_price": "55.0 Lacs",
+        "completion_date": 1486716115,
+        "_id": "1360888_resale"
+    }, {
+        "formatted_price": "66.0 Lacs",
+        "date_added_in_seconds": 1486047334.39182,
+        "show_loan_option": true,
+        "developer_name": "",
+        "type": "resale",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.91762,77.616215",
+        "is_uc_property": false,
+        "sellers_info": [{
+            "profile_uuid": "074bb95e-81dd-4ee3-9b08-e92222ad40cb",
+            "is_blocked": false,
+            "profile_url": null,
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Mohan",
+            "contact_person_id": 2,
+            "chat_enabled": null,
+            "uuid": "074bb95e-81dd-4ee3-9b08-e92222ad40cb"
+        }],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "updated_at": 1486047334,
+        "price": 6600000,
+        "formatted_per_sqft_rate": "5.5 k",
+        "is_ad_property": false,
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": "Jay Bheema Nagar",
+                "uuid": "d3ae962071a2a762a2cb"
+            },
+            "locality": {
+                "name": "BTM Layout",
+                "uuid": "83575552487e9a55f54d"
+            },
+            "sublocality": {
+                "name": "Stage 1",
+                "uuid": "9e3e206309791142d477"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 1357306,
+        "inventory_canonical_url": "/in/buy/resale/page/1357306-2-bhk-apartment-in-btm-layout-for-rs-6600000",
+        "building_name": "Comfort Palace",
+        "thumb_image_url": "https://is1-3.housingcdn.com/01c16c28/3563fd018c880d9c9740ea55bbc97cca/v2/version.jpg",
+        "parking_count": 1,
+        "date_added": "2017-02-02T20:25:34Z",
+        "inventory_configs": [{
+            "formatted_price": "66.0 Lacs",
+            "area": 1200,
+            "seller": [2],
+            "number_of_bedrooms": 2,
+            "facing": "east",
+            "apartment_type_id": 3,
+            "parking_count": 1,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 1357306,
+            "per_sqft_rate": 5500,
+            "price": 6600000,
+            "price_on_request": false,
+            "completion_date": 1265295334,
+            "id": 1357306,
+            "number_of_toilets": 2
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["d94a0854185332e78d1b", "83575552487e9a55f54d", "d3ae962071a2a762a2cb", "f7f5d7f50dde9452144e", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b", "88f5b6a53602c1a6f91c", "9e3e206309791142d477", "4f682772b368639b052a", "d078570df0e00884d815", "747be13fe47cb8ae14c3"],
+        "contact_persons_info": [{
+            "profile_uuid": "074bb95e-81dd-4ee3-9b08-e92222ad40cb",
+            "is_blocked": false,
+            "profile_url": null,
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Mohan",
+            "contact_person_id": 2,
+            "chat_enabled": null,
+            "uuid": "074bb95e-81dd-4ee3-9b08-e92222ad40cb"
+        }],
+        "slot_id": null,
+        "building_uuid": "81243e789b",
+        "status": "ACTIVE",
+        "display_neighbourhood": ["South Bangalore", "BTM Layout"],
+        "featured_type": "housing_region",
+        "max_price": 6600000,
+        "min_price": 6600000,
+        "formatted_max_price": "66.0 Lacs",
+        "formatted_min_price": "66.0 Lacs",
+        "completion_date": 1265295334,
+        "_id": "1357306_resale"
+    }, {
+        "formatted_price": "55.0 Lacs",
+        "date_added_in_seconds": 1486216470.493,
+        "show_loan_option": true,
+        "developer_name": "",
+        "type": "resale",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.922474,77.608649",
+        "is_uc_property": false,
+        "sellers_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "updated_at": 1486216471,
+        "price": 5500000,
+        "formatted_per_sqft_rate": "5 k",
+        "is_ad_property": false,
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": "Narayanappa Garden",
+                "uuid": "7376a797ce6a15d31120"
+            },
+            "locality": {
+                "name": "BTM Layout",
+                "uuid": "83575552487e9a55f54d"
+            },
+            "sublocality": {
+                "name": "Stage 1",
+                "uuid": "9e3e206309791142d477"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 1360885,
+        "inventory_canonical_url": "/in/buy/resale/page/1360885-2-bhk-apartment-in-btm-layout-for-rs-5500000",
+        "building_name": "Na",
+        "thumb_image_url": "https://is1-3.housingcdn.com/01c16c28/2fcae2eab34603ed8961b280729c7ed2/v2/version.jpg",
+        "parking_count": 1,
+        "date_added": "2017-02-04T19:24:30Z",
+        "inventory_configs": [{
+            "formatted_price": "55.0 Lacs",
+            "area": 1100,
+            "seller": [1],
+            "number_of_bedrooms": 2,
+            "facing": "north",
+            "apartment_type_id": 3,
+            "parking_count": 1,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 1360885,
+            "per_sqft_rate": 5000,
+            "price": 5500000,
+            "price_on_request": false,
+            "completion_date": 1486216470,
+            "id": 1360885,
+            "number_of_toilets": 2
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["88f5b6a53602c1a6f91c", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b", "7376a797ce6a15d31120", "747be13fe47cb8ae14c3", "9e3e206309791142d477", "83575552487e9a55f54d", "f7f5d7f50dde9452144e", "d078570df0e00884d815", "d94a0854185332e78d1b"],
+        "contact_persons_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "slot_id": null,
+        "building_uuid": "6a38153751",
+        "status": "ACTIVE",
+        "display_neighbourhood": ["South Bangalore", "BTM Layout"],
+        "featured_type": "housing_region",
+        "max_price": 5500000,
+        "min_price": 5500000,
+        "formatted_max_price": "55.0 Lacs",
+        "formatted_min_price": "55.0 Lacs",
+        "completion_date": 1486216470,
+        "_id": "1360885_resale"
+    }, {
+        "formatted_price": "55.0 Lacs",
+        "date_added_in_seconds": 1486208893.77619,
+        "show_loan_option": true,
+        "developer_name": "",
+        "type": "resale",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.922474,77.608649",
+        "is_uc_property": false,
+        "sellers_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "updated_at": 1486208894,
+        "price": 5500000,
+        "formatted_per_sqft_rate": "5 k",
+        "is_ad_property": false,
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": "Narayanappa Garden",
+                "uuid": "7376a797ce6a15d31120"
+            },
+            "locality": {
+                "name": "BTM Layout",
+                "uuid": "83575552487e9a55f54d"
+            },
+            "sublocality": {
+                "name": "Stage 1",
+                "uuid": "9e3e206309791142d477"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 1360793,
+        "inventory_canonical_url": "/in/buy/resale/page/1360793-2-bhk-apartment-in-btm-layout-for-rs-5500000",
+        "building_name": "Na",
+        "thumb_image_url": "https://is1-3.housingcdn.com/01c16c28/a898eae22039bf60ea76e77dae6ec064/v2/version.jpg",
+        "parking_count": 1,
+        "date_added": "2017-02-04T17:18:13Z",
+        "inventory_configs": [{
+            "formatted_price": "55.0 Lacs",
+            "area": 1100,
+            "seller": [1],
+            "number_of_bedrooms": 2,
+            "facing": "north-east",
+            "apartment_type_id": 3,
+            "parking_count": 1,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 1360793,
+            "per_sqft_rate": 5000,
+            "price": 5500000,
+            "price_on_request": false,
+            "completion_date": 1486208893,
+            "id": 1360793,
+            "number_of_toilets": 2
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["d078570df0e00884d815", "88f5b6a53602c1a6f91c", "9e3e206309791142d477", "d94a0854185332e78d1b", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b", "747be13fe47cb8ae14c3", "7376a797ce6a15d31120", "83575552487e9a55f54d", "f7f5d7f50dde9452144e"],
+        "contact_persons_info": [{
+            "profile_uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb",
+            "is_blocked": false,
+            "profile_url": "53104_sukumar",
+            "profile_picture_url": "https://housing.com/mystery-man.png",
+            "name": "Sukumar",
+            "contact_person_id": 1,
+            "chat_enabled": null,
+            "uuid": "997d7786-9865-4765-bfb6-5b3175b8eedb"
+        }],
+        "slot_id": null,
+        "building_uuid": "6a38153751",
+        "status": "ACTIVE",
+        "display_neighbourhood": ["South Bangalore", "BTM Layout"],
+        "featured_type": "housing_region",
+        "max_price": 5500000,
+        "min_price": 5500000,
+        "formatted_max_price": "55.0 Lacs",
+        "formatted_min_price": "55.0 Lacs",
+        "completion_date": 1486208893,
+        "_id": "1360793_resale"
+    }, {
+        "has_slice_view": false,
+        "formatted_price": "1.37 Cr",
+        "has_offer": false,
+        "developer_information": [{
+            "name": "Esteem Group"
+        }],
+        "date_added_in_seconds": 1407542440.0,
+        "noc_approvals_present": false,
+        "type": "project",
+        "title": "2, 3 BHK Apartments",
+        "location_coordinates": "12.937236,77.606865",
+        "sellers_info": [{
+            "is_homebuy360_builder": false,
+            "profile_uuid": "8c045f7b-e3a2-4ecf-9d66-b4551b64a002",
+            "profile_url": "167685_esteem_group",
+            "min_fromatted_price": "1.37 Cr",
+            "bhk_title": "2,3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/46e559f749672f50142e511eda4c335b/v1/version.jpg",
+            "contact_person_id": 3,
+            "max_fromatted_price": "2.0 Cr",
+            "offer_text": [],
+            "max_price": 20045000,
+            "is_seller": false,
+            "min_price": 13727500,
+            "apartment_type_ids": [3, 4],
+            "name": "Esteem Group"
+        }],
+        "offer_text": null,
+        "coupon_details": [],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "price": 13727500,
+        "formatted_per_sqft_rate": "9.5k",
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": null,
+                "uuid": null
+            },
+            "locality": {
+                "name": "Adugodi",
+                "uuid": "8d647623a0126bcf49f3"
+            },
+            "sublocality": {
+                "name": "Dairy Colony",
+                "uuid": "b7efe539d59e7a2e9dc5"
+            },
+            "housing_region": {
+                "name": "Central Bangalore",
+                "uuid": "c85e209ef72f951b2169"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 4208,
+        "event_priority": null,
+        "inventory_canonical_url": "/in/buy/projects/page/4208-esteem-splendor-by-esteem-group-in-adugodi",
+        "is_premium_project": false,
+        "thumb_image_url": "https://is1-2.housingcdn.com/4f2250e8/388d500d58aa10784d7211bbaed0def1/v2/version.jpg",
+        "offers_data": [],
+        "initiation_date": 1356978600,
+        "project_event_status": "UNAVAILABLE",
+        "show_construction_updates": false,
+        "date_added": "2014-08-09T05:30:40Z",
+        "inventory_configs": [{
+            "formatted_price": "1.37 Cr",
+            "area": 1445,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114877,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 13727500,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.38 Cr",
+            "area": 1450,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114878,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 13775000,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.44 Cr",
+            "area": 1515,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114879,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 14392500,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.58 Cr",
+            "area": 1665,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114880,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 15817500,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.82 Cr",
+            "area": 1915,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114881,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 18192500,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.85 Cr",
+            "area": 1945,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114882,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 18477500,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "2.0 Cr",
+            "area": 2110,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 114883,
+            "coupon_details": [],
+            "per_sqft_rate": 9500,
+            "price": 20045000,
+            "price_on_request": false,
+            "completion_date": 1393785000,
+            "id": 4208,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["747be13fe47cb8ae14c3", "d078570df0e00884d815", "c85e209ef72f951b2169", "65312d257cf1042ce22b", "f7f5d7f50dde9452144e", "88f5b6a53602c1a6f91c", "d94a0854185332e78d1b", "8d647623a0126bcf49f3", "b7efe539d59e7a2e9dc5"],
+        "contact_persons_info": [{
+            "is_homebuy360_builder": false,
+            "not_in_contact_card": false,
+            "profile_uuid": "8c045f7b-e3a2-4ecf-9d66-b4551b64a002",
+            "profile_url": "167685_esteem_group",
+            "min_fromatted_price": "1.37 Cr",
+            "bhk_title": "2,3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/46e559f749672f50142e511eda4c335b/v1/version.jpg",
+            "contact_person_id": 3,
+            "uuid": "8c045f7b-e3a2-4ecf-9d66-b4551b64a002",
+            "max_fromatted_price": "2.0 Cr",
+            "offer_text": [],
+            "max_price": 20045000,
+            "is_seller": false,
+            "min_price": 13727500,
+            "apartment_type_ids": [3, 4],
+            "name": "Esteem Group"
+        }],
+        "event_tag_id": null,
+        "name": "Esteem Splendor",
+        "is_pano_available": false,
+        "status": "ACTIVE",
+        "min_price_per_bedrooms": [{
+            "aprt_type_id": 3,
+            "apartment_type_name": "2 BHK",
+            "minimum_price": 13727500,
+            "minimum_formatted_price": "1.37 Cr",
+            "maximum_price": 15817500,
+            "maximum_formatted_price": "1.58 Cr",
+            "minimum_area": 1445,
+            "maximum_area": 1665,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1393785000
+        }, {
+            "aprt_type_id": 4,
+            "apartment_type_name": "3 BHK",
+            "minimum_price": 18192500,
+            "minimum_formatted_price": "1.82 Cr",
+            "maximum_price": 20045000,
+            "maximum_formatted_price": "2.0 Cr",
+            "minimum_area": 1915,
+            "maximum_area": 2110,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1393785000
+        }],
+        "display_neighbourhood": ["Central Bangalore", "Adugodi"],
+        "featured_type": "housing_region",
+        "min_price": 13727500,
+        "formatted_min_price": "1.37 Cr",
+        "max_price": 20045000,
+        "formatted_max_price": "2.0 Cr",
+        "completion_date": 1393785000,
+        "_id": "4208_project"
+    }, {
+        "has_slice_view": false,
+        "formatted_price": "1.18 Cr",
+        "has_offer": true,
+        "developer_information": [{
+            "name": "Mythreyi Promoters"
+        }],
+        "date_added_in_seconds": 1411613654.0,
+        "noc_approvals_present": false,
+        "type": "project",
+        "title": "2, 3 BHK Apartments",
+        "location_coordinates": "12.945371,77.603121",
+        "sellers_info": [{
+            "is_homebuy360_builder": false,
+            "profile_uuid": "133ee236-b4c9-4af1-ad48-a0299c68e049",
+            "profile_url": "187269_mythreyi_promoters",
+            "min_fromatted_price": "1.18 Cr",
+            "bhk_title": "2,3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/6b4c92f7f0d0403753a36567895225c2/v0/version.jpg",
+            "contact_person_id": 3,
+            "max_fromatted_price": "1.48 Cr",
+            "offer_text": [],
+            "max_price": 14760000,
+            "is_seller": false,
+            "min_price": 11808000,
+            "apartment_type_ids": [3, 4],
+            "name": "Mythreyi Promoters"
+        }],
+        "offer_text": "Flats starting from Rs 99 Lacs onwards* Contact Builder to avail the Offer.",
+        "coupon_details": [],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "price": 11808000,
+        "formatted_per_sqft_rate": "9k",
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": null,
+                "uuid": null
+            },
+            "locality": {
+                "name": "Adugodi",
+                "uuid": "8d647623a0126bcf49f3"
+            },
+            "sublocality": {
+                "name": "Ayappa Garden",
+                "uuid": "fdece633c2d9b9a94757"
+            },
+            "housing_region": {
+                "name": "Central Bangalore",
+                "uuid": "c85e209ef72f951b2169"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 7587,
+        "event_priority": null,
+        "inventory_canonical_url": "/in/buy/projects/page/7587-naimisha-by-mythreyi-promoters-in-adugodi",
+        "is_premium_project": false,
+        "thumb_image_url": "https://is1-2.housingcdn.com/4f2250e8/0f4e953427ebd37d4125419e1929df44/v1/version.jpg",
+        "offers_data": ["Flats starting from Rs 99 Lacs onwards* Contact Builder to avail the Offer."],
+        "initiation_date": 1356978600,
+        "project_event_status": "UNAVAILABLE",
+        "show_construction_updates": false,
+        "date_added": "2014-09-25T08:24:14Z",
+        "inventory_configs": [{
+            "formatted_price": "1.18 Cr",
+            "area": 1312,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 29004,
+            "coupon_details": [],
+            "per_sqft_rate": 9000,
+            "price": 11808000,
+            "price_on_request": false,
+            "completion_date": 1454437800,
+            "id": 7587,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }, {
+            "formatted_price": "1.48 Cr",
+            "area": 1640,
+            "seller": [3],
+            "number_of_bedrooms": 3,
+            "facing": "all",
+            "apartment_type_id": 4,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 29006,
+            "coupon_details": [],
+            "per_sqft_rate": 9000,
+            "price": 14760000,
+            "price_on_request": false,
+            "completion_date": 1454437800,
+            "id": 7587,
+            "number_of_toilets": 3,
+            "pass_by_filter": true
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["c85e209ef72f951b2169", "6c4b1f501c88799cabe5", "65312d257cf1042ce22b", "f7f5d7f50dde9452144e", "8d647623a0126bcf49f3", "88f5b6a53602c1a6f91c", "d94a0854185332e78d1b", "fdece633c2d9b9a94757", "747be13fe47cb8ae14c3", "d078570df0e00884d815"],
+        "contact_persons_info": [{
+            "is_homebuy360_builder": false,
+            "not_in_contact_card": false,
+            "profile_uuid": "133ee236-b4c9-4af1-ad48-a0299c68e049",
+            "profile_url": "187269_mythreyi_promoters",
+            "min_fromatted_price": "1.18 Cr",
+            "bhk_title": "2,3 BHK",
+            "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/6b4c92f7f0d0403753a36567895225c2/v0/version.jpg",
+            "contact_person_id": 3,
+            "uuid": "133ee236-b4c9-4af1-ad48-a0299c68e049",
+            "max_fromatted_price": "1.48 Cr",
+            "offer_text": [],
+            "max_price": 14760000,
+            "is_seller": false,
+            "min_price": 11808000,
+            "apartment_type_ids": [3, 4],
+            "name": "Mythreyi Promoters"
+        }],
+        "event_tag_id": null,
+        "name": "Naimisha",
+        "is_pano_available": false,
+        "status": "ACTIVE",
+        "min_price_per_bedrooms": [{
+            "aprt_type_id": 3,
+            "apartment_type_name": "2 BHK",
+            "minimum_price": 11808000,
+            "minimum_formatted_price": "1.18 Cr",
+            "maximum_price": 11808000,
+            "maximum_formatted_price": "1.18 Cr",
+            "minimum_area": 1312,
+            "maximum_area": 1312,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1454437800
+        }, {
+            "aprt_type_id": 4,
+            "apartment_type_name": "3 BHK",
+            "minimum_price": 14760000,
+            "minimum_formatted_price": "1.48 Cr",
+            "maximum_price": 14760000,
+            "maximum_formatted_price": "1.48 Cr",
+            "minimum_area": 1640,
+            "maximum_area": 1640,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1454437800
+        }],
+        "display_neighbourhood": ["Central Bangalore", "Adugodi"],
+        "featured_type": "housing_region",
+        "min_price": 11808000,
+        "formatted_min_price": "1.18 Cr",
+        "max_price": 14760000,
+        "formatted_max_price": "1.48 Cr",
+        "completion_date": 1454437800,
+        "_id": "7587_project"
+    }, {
+        "has_slice_view": false,
+        "formatted_price": "1.39 Cr",
+        "has_offer": false,
+        "developer_information": [{
+            "name": "Lakshmi Builders"
+        }],
+        "date_added_in_seconds": 1406974538.0,
+        "noc_approvals_present": false,
+        "type": "project",
+        "title": "2 BHK Apartment",
+        "location_coordinates": "12.931493,77.608566",
+        "sellers_info": [{
+            "is_homebuy360_builder": false,
+            "profile_uuid": "8bba7ae6-a0e8-4d1c-8db7-ca16b300764a",
+            "profile_url": "158798_lakshmi_builders",
+            "min_fromatted_price": "1.39 Cr",
+            "bhk_title": "2 BHK",
+            "profile_picture_url": "https://is1-2.housingcdn.com/0b8ad14c/9d27e36a9d7335262028ecd30e7f0638/v2/version.jpg",
+            "contact_person_id": 3,
+            "max_fromatted_price": "1.39 Cr",
+            "offer_text": [],
+            "max_price": 13920000,
+            "is_seller": false,
+            "min_price": 13920000,
+            "apartment_type_ids": [3],
+            "name": "Lakshmi Builders"
+        }],
+        "offer_text": null,
+        "coupon_details": [],
+        "city_select_uuid": ["d94a0854185332e78d1b"],
+        "price": 13920000,
+        "formatted_per_sqft_rate": "4.8k",
+        "polygons_hash": {
+            "h_district": {
+                "name": null,
+                "uuid": null
+            },
+            "city": {
+                "name": "Bangalore",
+                "uuid": "747be13fe47cb8ae14c3"
+            },
+            "neighbourhood": {
+                "name": null,
+                "uuid": null
+            },
+            "locality": {
+                "name": "Sadduguntepalya",
+                "uuid": "934b5e5a1a4ae0e746c3"
+            },
+            "sublocality": {
+                "name": "Venkateshwara Layout",
+                "uuid": "fa470ab70caad52fc23d"
+            },
+            "housing_region": {
+                "name": "South Bangalore",
+                "uuid": "df1b0d8128f30883c4e5"
+            },
+            "state": {
+                "name": "Karnataka",
+                "uuid": "d078570df0e00884d815"
+            },
+            "region": {
+                "name": "Bangalore Urban",
+                "uuid": "88f5b6a53602c1a6f91c"
+            },
+            "housing_state": {
+                "name": null,
+                "uuid": null
+            }
+        },
+        "price_on_request": false,
+        "id": 2220,
+        "event_priority": null,
+        "inventory_canonical_url": "/in/buy/projects/page/2220-lakshmi-tent-home-by-lakshmi-builders-in-sadduguntepalya",
+        "is_premium_project": false,
+        "thumb_image_url": "https://is1-3.housingcdn.com/4f2250e8/69ac8446f57934ea2e81bc0c827cf7de/v1/version.jpg",
+        "offers_data": [],
+        "initiation_date": 1346437800,
+        "project_event_status": "UNAVAILABLE",
+        "show_construction_updates": false,
+        "date_added": "2014-08-02T15:45:37Z",
+        "inventory_configs": [{
+            "formatted_price": "1.39 Cr",
+            "area": 2900,
+            "seller": [3],
+            "number_of_bedrooms": 2,
+            "facing": "all",
+            "apartment_type_id": 3,
+            "is_available": true,
+            "property_type_id": 1,
+            "flat_config_id": 8460,
+            "coupon_details": [],
+            "per_sqft_rate": 4800,
+            "price": 13920000,
+            "price_on_request": false,
+            "completion_date": 1451759400,
+            "id": 2220,
+            "number_of_toilets": 2,
+            "pass_by_filter": true
+        }],
+        "is_blocked": false,
+        "polygon_uuids": ["d078570df0e00884d815", "f7f5d7f50dde9452144e", "df1b0d8128f30883c4e5", "65312d257cf1042ce22b", "934b5e5a1a4ae0e746c3", "d94a0854185332e78d1b", "fa470ab70caad52fc23d", "88f5b6a53602c1a6f91c", "747be13fe47cb8ae14c3"],
+        "contact_persons_info": [{
+            "is_homebuy360_builder": false,
+            "not_in_contact_card": false,
+            "profile_uuid": "8bba7ae6-a0e8-4d1c-8db7-ca16b300764a",
+            "profile_url": "158798_lakshmi_builders",
+            "min_fromatted_price": "1.39 Cr",
+            "bhk_title": "2 BHK",
+            "profile_picture_url": "https://is1-2.housingcdn.com/0b8ad14c/9d27e36a9d7335262028ecd30e7f0638/v2/version.jpg",
+            "contact_person_id": 3,
+            "uuid": "8bba7ae6-a0e8-4d1c-8db7-ca16b300764a",
+            "max_fromatted_price": "1.39 Cr",
+            "offer_text": [],
+            "max_price": 13920000,
+            "is_seller": false,
+            "min_price": 13920000,
+            "apartment_type_ids": [3],
+            "name": "Lakshmi Builders"
+        }],
+        "event_tag_id": null,
+        "name": "Lakshmi Tent Home",
+        "is_pano_available": false,
+        "status": "ACTIVE",
+        "min_price_per_bedrooms": [{
+            "aprt_type_id": 3,
+            "apartment_type_name": "2 BHK",
+            "minimum_price": 13920000,
+            "minimum_formatted_price": "1.39 Cr",
+            "maximum_price": 13920000,
+            "maximum_formatted_price": "1.39 Cr",
+            "minimum_area": 2900,
+            "maximum_area": 2900,
+            "is_available": true,
+            "price_on_request": false,
+            "completion_date": 1451759400
+        }],
+        "display_neighbourhood": ["South Bangalore", "Sadduguntepalya"],
+        "featured_type": "housing_region",
+        "min_price": 13920000,
+        "formatted_min_price": "1.39 Cr",
+        "max_price": 13920000,
+        "formatted_max_price": "1.39 Cr",
+        "completion_date": 1451759400,
+        "_id": "2220_project"
+    }],
+    "aggregations": {
+        "collection_ids": {
+            "buckets": [{
+                "key": 1,
+                "doc_count": 3,
+                "collection_name": "Luxury",
+                "collection_image": "https://is1-3.housingcdn.com/afe3f526/13b186eece020d2d4ad85cea21cdb991/v4/version.jpg",
+                "collection_image_header": "https://is1-3.housingcdn.com/afe3f526/77fb47cf4c2d93b7b834934f9bfb4302/v2/version.jpg"
+            }]
+        }
+    },
+    "np_offset": -1,
+    "resale_offset": 0,
+    "filter_aggregations": null,
+    "is_last_page": false,
+    "exclude_ids": "41477,33510",
+    "exclude_resale_ids": null,
+    "project_flat_config_count": 45,
+    "promoted_entities": [{
+        "placeholder_id": 2,
+        "entity_details": []
+    }, {
+        "placeholder_id": 3,
+        "entity_details": [{
+            "id": 41477,
+            "type": "project",
+            "name": "Dreamciti Greens - A Signature Villows",
+            "thumb_image_url": "https://is1-2.housingcdn.com/4f2250e8/76afb92c0fd8f74648b687dda8100ccb/v3/version.jpg",
+            "has_offer": true,
+            "offer_text": "Avail Huge Discounts Valid till March 2017",
+            "price": 10800930,
+            "formatted_price": "1.08 Cr",
+            "title": "3 BHK Villa",
+            "inventory_canonical_url": "/in/buy/projects/page/41477-dreamciti-greens-a-signature-villows-by-dreamciti-realty-pvt-ltd-in-koppa-gate",
+            "location_coordinates": "12.796361,77.619667",
+            "inventory_amenities": {
+                "has_gym": true,
+                "has_swimming_pool": true,
+                "has_gas_pipeline": false,
+                "has_lift": false,
+                "has_parking": false,
+                "is_gated_community": true
+            },
+            "formatted_per_sqft_rate": "4.49k",
+            "date_added_in_seconds": 1481536548.70501,
+            "date_added": "2016-12-12T15:25:48Z",
+            "status": "ACTIVE",
+            "completion_date": 1512325800,
+            "display_name": "Dreamciti Greens - A Signature Villows by Dreamciti Realty Pvt Ltd",
+            "street_info": "Off Bannerghatta Main Road, Near Tapovan School, Koppa Gate",
+            "has_slice_view": false,
+            "combined_polygon_uuids": [],
+            "gallery_images": [{
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/4f2250e8/76afb92c0fd8f74648b687dda8100ccb/v3/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/1f081b70eae8ebcee8572001f253df77/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/9d9eb046a3aa6f4f5846691425bae95d/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/587b6d3ca3d2d7e5514ceb505bedf4d7/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/4440d09631217029829424acad33c38a/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/9bb27dcbf987ee0ed775fafd3cd544ff/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/e33a592ae6796c5a26793fa26b763583/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/1c62fd702718cd741ca9dffabd0013c2/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/eff4bab63f687a7e28594b5a5854ed33/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/b7e53af80e2a2ba61534727bebd6a011/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/d4f08a0e3d2038944a8ecf83bc593391/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/48b875091d1623a5143589643953e27b/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/ae4e9d7c2c0c30faf5bc034d2a42241c/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-3.housingcdn.com/012c1500/cfe52dac4ba4ada898925cdb6fd193d0/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/cba96aed2bc49c7742a132f7a0bfb269/v2/version.jpg"
+            }, {
+                "is_landscape": true,
+                "absolute_url": "https://is1-2.housingcdn.com/012c1500/fa96922afe9fac21295d7cbb01fb1a77/v2/version.jpg"
+            }],
+            "price_on_request": false,
+            "avg_searches_per_day": 0.0,
+            "avg_views_per_day": 0.142857142857143,
+            "ctr": 0.02,
+            "impressions": 8737,
+            "display_area_type": "Super Builtup Area",
+            "initiation_date": 1483209000,
+            "event_id": null,
+            "event_tag_id": null,
+            "polygons_hash": {
+                "city": {
+                    "name": "Bangalore",
+                    "uuid": "747be13fe47cb8ae14c3"
+                },
+                "locality": {
+                    "name": null,
+                    "uuid": null
+                },
+                "sublocality": {
+                    "name": null,
+                    "uuid": null
+                },
+                "neighbourhood": {
+                    "name": null,
+                    "uuid": null
+                },
+                "state": {
+                    "name": "Karnataka",
+                    "uuid": "d078570df0e00884d815"
+                },
+                "h_district": {
+                    "name": null,
+                    "uuid": null
+                },
+                "region": {
+                    "name": "Bangalore Urban",
+                    "uuid": "88f5b6a53602c1a6f91c"
+                },
+                "housing_state": {
+                    "name": null,
+                    "uuid": null
+                },
+                "housing_region": {
+                    "name": "Bannerghatta Road-Jigani",
+                    "uuid": "94c9aa87311b3d75a6b3"
+                }
+            },
+            "event_priority": null,
+            "price_update": {
+                "time_span": 2,
+                "formatted_per_sqft_rate": "4.5k",
+                "percent_change": -3.4
+            },
+            "collection_ids": [],
+            "project_event_status": "UNAVAILABLE",
+            "is_premium_project": false,
+            "city_select_uuid": ["d94a0854185332e78d1b"],
+            "noc_approvals_present": false,
+            "show_construction_updates": false,
+            "is_pano_available": false,
+            "polygon_uuids": ["f7f5d7f50dde9452144e", "94c9aa87311b3d75a6b3", "d94a0854185332e78d1b", "88f5b6a53602c1a6f91c", "d078570df0e00884d815", "747be13fe47cb8ae14c3", "9a08c69f4ebbfc3edca6", "23fe7045e2613fb340be"],
+            "coupon_details": [],
+            "has_mobile_slice_view": false,
+            "minimal_info_project": true,
+            "display_name_alias": "Dreamciti Greens - A Signature Villows by Dreamciti Realty Pvt Ltd",
+            "is_blocked": false,
+            "sellers_info": [{
+                "is_homebuy360_builder": false,
+                "profile_uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+                "profile_url": "1222666_dreamciti_realty_pvt_ltd",
+                "min_fromatted_price": "1.08 Cr",
+                "bhk_title": "3 BHK",
+                "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/dfba26bb46eb8a1ac2acc1d30d707bf8/v4/version.jpg",
+                "contact_person_id": 3,
+                "max_fromatted_price": "1.69 Cr",
+                "offer_text": [],
+                "max_price": 16872000,
+                "is_seller": false,
+                "min_price": 10800930,
+                "apartment_type_ids": [4],
+                "name": "Dreamciti Realty Pvt Ltd"
+            }],
+            "developer_information": [{
+                "name": "Dreamciti Realty Pvt Ltd"
+            }],
+            "offers_data": ["Avail Huge Discounts Valid till March 2017"],
+            "social_factors": [],
+            "social_factors_display": [],
+            "user_profile": {
+                "a": {
+                    "ctr": 0.02,
+                    "impressions": 8737,
+                    "clicks": 151
+                },
+                "b": {
+                    "ctr": 0.02,
+                    "impressions": 8737,
+                    "clicks": 151
+                }
+            },
+            "polygon_profile": {
+                "a": {
+                    "ctr": 0.02,
+                    "impressions": 8737,
+                    "clicks": 151
+                },
+                "b": {
+                    "ctr": 0.02,
+                    "impressions": 8737,
+                    "clicks": 151
+                }
+            },
+            "inventory_configs": [{
+                "formatted_price": "1.08 Cr",
+                "area": 2707,
+                "seller": [3],
+                "number_of_bedrooms": 3,
+                "facing": "all",
+                "apartment_type_id": 4,
+                "is_available": true,
+                "property_type_id": 2,
+                "flat_config_id": 148010,
+                "coupon_details": [],
+                "per_sqft_rate": 3990,
+                "price": 10800930,
+                "price_on_request": false,
+                "completion_date": 1512325800,
+                "id": 41477,
+                "number_of_toilets": null,
+                "pass_by_filter": true
+            }, {
+                "formatted_price": "1.09 Cr",
+                "area": 2732,
+                "seller": [3],
+                "number_of_bedrooms": 3,
+                "facing": "all",
+                "apartment_type_id": 4,
+                "is_available": true,
+                "property_type_id": 2,
+                "flat_config_id": 148011,
+                "coupon_details": [],
+                "per_sqft_rate": 3990,
+                "price": 10900680,
+                "price_on_request": false,
+                "completion_date": 1512325800,
+                "id": 41477,
+                "number_of_toilets": null,
+                "pass_by_filter": true
+            }, {
+                "formatted_price": "1.1 Cr",
+                "area": 2754,
+                "seller": [3],
+                "number_of_bedrooms": 3,
+                "facing": "all",
+                "apartment_type_id": 4,
+                "is_available": true,
+                "property_type_id": 2,
+                "flat_config_id": 148009,
+                "coupon_details": [],
+                "per_sqft_rate": 3990,
+                "price": 10988460,
+                "price_on_request": false,
+                "completion_date": 1512325800,
+                "id": 41477,
+                "number_of_toilets": null,
+                "pass_by_filter": true
+            }, {
+                "formatted_price": "1.69 Cr",
+                "area": 2812,
+                "seller": [3],
+                "number_of_bedrooms": 3,
+                "facing": "all",
+                "apartment_type_id": 4,
+                "is_available": true,
+                "property_type_id": 2,
+                "flat_config_id": 148008,
+                "coupon_details": [],
+                "per_sqft_rate": 6000,
+                "price": 16872000,
+                "price_on_request": false,
+                "completion_date": 1512325800,
+                "id": 41477,
+                "number_of_toilets": null,
+                "pass_by_filter": true
+            }],
+            "contact_persons_info": [{
+                "is_homebuy360_builder": false,
+                "not_in_contact_card": false,
+                "profile_uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+                "profile_url": "1222666_dreamciti_realty_pvt_ltd",
+                "min_fromatted_price": "1.08 Cr",
+                "bhk_title": "3 BHK",
+                "profile_picture_url": "https://is1-3.housingcdn.com/0b8ad14c/dfba26bb46eb8a1ac2acc1d30d707bf8/v4/version.jpg",
+                "contact_person_id": 3,
+                "uuid": "02924e46-5eff-4b55-bcb4-b61a875d949b",
+                "max_fromatted_price": "1.69 Cr",
+                "offer_text": [],
+                "max_price": 16872000,
+                "is_seller": false,
+                "min_price": 10800930,
+                "apartment_type_ids": [4],
+                "name": "Dreamciti Realty Pvt Ltd"
+            }],
+            "min_price_per_bedrooms": [{
+                "aprt_type_id": 4,
+                "apartment_type_name": "3 BHK",
+                "minimum_price": 10800930,
+                "minimum_formatted_price": "1.08 Cr",
+                "maximum_price": 16872000,
+                "maximum_formatted_price": "1.69 Cr",
+                "minimum_area": 2707,
+                "maximum_area": 2812,
+                "is_available": true,
+                "price_on_request": false,
+                "completion_date": 1512325800
+            }],
+            "display_neighbourhood": ["Bannerghatta Road, Bengaluru"],
+            "featured_type": "locality",
+            "min_price": 10800930,
+            "formatted_min_price": "1.08 Cr",
+            "max_price": 16872000,
+            "formatted_max_price": "1.69 Cr",
+            "is_available": true,
+            "video_url": null
+        }]
+    }],
+    "negative_aggregation": {},
+    "building_info": null,
+    "seed_elements": {
+        "1": [{
+            "id": 22,
+            "color": "#5675ec-#56bab2",
+            "location": "",
+            "name": "Great Offers by Tata",
+            "sub_text": "Zero down payment \u0026 Limited Period Offers.",
+            "link_text": "Know More",
+            "name_mobile": "Great Offers by Tata",
+            "sub_text_mobile": "Limited Period Offers",
+            "url": "https://housing.com/events/TATA2017",
+            "offer": ["Flat Discounts", "Flexi Payment plans", "Home Loan Offers"],
+            "cover_image": "https://is1-2.housingcdn.com/dd4bc667/67ca1dd310903c7a1cedc060130df2c8/v1/version.jpg",
+            "projects_collage": "https://is1-2.housingcdn.com/c4f464c5/b69f28984307c66f3d4a4aa0ee9854a2/v4/version.png",
+            "type": "event"
+        }],
+        "2": [{
+            "id": 22,
+            "color": "#5675ec-#56bab2",
+            "location": "",
+            "name": "Great Offers by Tata",
+            "sub_text": "Zero down payment \u0026 Limited Period Offers.",
+            "link_text": "Know More",
+            "name_mobile": "Great Offers by Tata",
+            "sub_text_mobile": "Limited Period Offers",
+            "url": "https://housing.com/events/TATA2017",
+            "offer": ["Flat Discounts", "Flexi Payment plans", "Home Loan Offers"],
+            "cover_image": "https://is1-2.housingcdn.com/dd4bc667/67ca1dd310903c7a1cedc060130df2c8/v1/version.jpg",
+            "projects_collage": "https://is1-2.housingcdn.com/c4f464c5/b69f28984307c66f3d4a4aa0ee9854a2/v4/version.png",
+            "type": "event"
+        }]
+    },
+    "algo_profile": "polygon_profile",
+    "algo_type": "a",
+    "show_poly_page": false,
+    "tag_suggestions": [{
+        "filters": {
+            "apartment_type_id": [{
+                "filter_value": {
+                    "apartment_type_id": ["3"]
+                },
+                "display_name": "2 BHK"
+            }],
+            "price": [{
+                "filter_value": {
+                    "min_price": 4500000,
+                    "max_price": 8000000
+                },
+                "display_name": "₹ 45 L - 80 L"
+            }]
+        }
+    }, {
+        "filters": {
+            "apartment_type_id": [{
+                "filter_value": {
+                    "apartment_type_id": ["4"]
+                },
+                "display_name": "3 BHK"
+            }],
+            "price": [{
+                "filter_value": {
+                    "min_price": 4500000,
+                    "max_price": 21000000
+                },
+                "display_name": "₹ 45 L - 2.1 Cr"
+            }]
+        }
+    }, {
+        "filters": {
+            "apartment_type_id": [{
+                "filter_value": {
+                    "apartment_type_id": ["2"]
+                },
+                "display_name": "1 BHK"
+            }],
+            "price": [{
+                "filter_value": {
+                    "min_price": 4500000,
+                    "max_price": 8000000
+                },
+                "display_name": "₹ 45 L - 80 L"
+            }]
+        }
+    }, {
+        "filters": {
+            "apartment_type_id": [{
+                "filter_value": {
+                    "apartment_type_id": ["5"]
+                },
+                "display_name": "4 BHK"
+            }],
+            "price": [{
+                "filter_value": {
+                    "min_price": 15000000,
+                    "max_price": 21000000
+                },
+                "display_name": "₹ 1.5 Cr - 2.1 Cr"
+            }]
+        }
+    }]
+}
